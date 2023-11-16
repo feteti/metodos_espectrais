@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="enabledOnReformat" value="true" />
+    <option name="enabledOnSave" value="true" />
+    <option name="executionMode" value="BINARY" />
+    <option name="pathToExecutable" value="C:\Users\fetet\miniconda3\Scripts\black.exe" />
+    <option name="sdkUUID" value="1d6325a3-c12b-40f0-904c-26596c0d5ca4" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (metodos_espectrais)" project-jdk-type="Python SDK" />
+</project>
